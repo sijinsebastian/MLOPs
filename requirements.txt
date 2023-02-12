@@ -1,0 +1,7 @@
+pip3
+pandas
+numpy
+sklearn
+joblib
+flask
+xgboost
