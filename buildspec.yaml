@@ -7,6 +7,6 @@ phases:
       - sudo apt-get update
       - curl -sS https://bootstrap.pypa.io/get-pip.py | python3.10
       - python3.10 -m pip install --upgrade pip
-      - pip install --upgrade setuptools wheel
-      - pip install -r requirements.txt
+      - python3.10 -m pip install --upgrade setuptools wheel
+      - python3.10 -m pip install -r requirements.txt
 
