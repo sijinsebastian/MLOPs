@@ -9,4 +9,3 @@ phases:
       - pip3 install --upgrade pip
       - pip3 install --upgrade setuptools wheel
       - pip3 install -r requirements.txt
-
