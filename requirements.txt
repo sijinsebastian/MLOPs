@@ -4,3 +4,4 @@ sklearn
 joblib
 flask
 xgboost
+boto3
